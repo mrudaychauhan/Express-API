@@ -2,7 +2,7 @@
 
 This is an eCommerce project, which is built using React with redux to store data.
 
-### Hosted link: [lego Mart](https://legomart.netlify.app/)
+### Hosted link: [lego Mart](https://comfy-valkyrie-4c34b4.netlify.app/)
 
 ![](./public/1.png)
 
